@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/attach-file.png</file>
+        <file>img/backup-file.png</file>
+        <file>img/documents.png</file>
+        <file>img/download-file.png</file>
+        <file>img/folder.png</file>
+        <file>img/paper-shredder.png</file>
+        <file>img/save-file.png</file>
+        <file>img/add-file.png</file>
+        <file>img/new.png</file>
+        <file>img/redo.png</file>
+        <file>img/about.png</file>
+        <file>img/font.png</file>
+        <file>img/color.png</file>
+    </qresource>
+</RCC>

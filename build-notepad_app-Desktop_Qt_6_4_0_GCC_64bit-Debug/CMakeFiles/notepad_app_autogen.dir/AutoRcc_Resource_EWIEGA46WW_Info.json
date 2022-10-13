@@ -1,0 +1,34 @@
+{
+	"BUILD_DIR" : "/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/build-notepad_app-Desktop_Qt_6_4_0_GCC_64bit-Debug/notepad_app_autogen",
+	"CMAKE_BINARY_DIR" : "/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/build-notepad_app-Desktop_Qt_6_4_0_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/build-notepad_app-Desktop_Qt_6_4_0_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/notepad_app",
+	"CMAKE_SOURCE_DIR" : "/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/notepad_app",
+	"INCLUDE_DIR" : "/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/build-notepad_app-Desktop_Qt_6_4_0_GCC_64bit-Debug/notepad_app_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/notepad_app/img/redo.png",
+		"/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/notepad_app/img/new.png",
+		"/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/notepad_app/img/attach-file.png",
+		"/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/notepad_app/img/save-file.png",
+		"/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/notepad_app/img/folder.png",
+		"/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/notepad_app/img/backup-file.png",
+		"/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/notepad_app/img/add-file.png",
+		"/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/notepad_app/img/about.png",
+		"/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/notepad_app/img/download-file.png",
+		"/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/notepad_app/img/color.png",
+		"/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/notepad_app/img/font.png",
+		"/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/notepad_app/img/paper-shredder.png",
+		"/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/notepad_app/img/documents.png"
+	],
+	"LOCK_FILE" : "/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/build-notepad_app-Desktop_Qt_6_4_0_GCC_64bit-Debug/CMakeFiles/notepad_app_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resource.cpp",
+	"RCC_EXECUTABLE" : "/opt/Qt/6.4.0/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/build-notepad_app-Desktop_Qt_6_4_0_GCC_64bit-Debug/CMakeFiles/notepad_app_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/seb-cheneb/Documents/projects/cpp/Qt/notepad_app/notepad_app/Resource.qrc",
+	"VERBOSITY" : 0
+}
